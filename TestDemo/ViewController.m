@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"firstOne");
+    NSLog(@"develep_wangxu_bugs");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
